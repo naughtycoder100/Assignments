@@ -1,0 +1,47 @@
+NOTE -> You Have to Solve each question in all the possible ways you can think of .
+(even if its just a brute force solution you have to write that and have to figure out the complexcities and write that in comment)
+
+Also NOTE - if input is not explicitly mentioned to be in some order or of some special type assume that it could be in anyway
+
+
+1) write a function to return if the given number in prime or not. 
+
+2) write a function to return the factorial of a number.
+
+3) Given a string you have to sort the string with the following condition.
+ 
+   Sample Input -> "t9ex8t7709721334AAID"
+   Ouput - > "AADIettx01233477789"
+
+   Explanation -> all the uppercase letter will be sorted and come in front , followed by sorted lowercase letter and then sorted numbers
+
+
+4) write the function to return all the possible increasing sublist of a given list.
+      e.g - A = [2,3,4]
+	o/p - > [[],2,[2,3],[2,4],[2,3,4],[3],[3,4],[4]]
+
+
+
+5) write a function to merge two sorted array without taking any extra space.( This is Self explanatory)
+
+6) Ajay is a naughtyboy and always try to take his inncocent angel like trainer :( for a ride after he fails to complete all his assignments,
+   He got an idea to put all the solved questions in front followed by failedtestcases/(wrong answers) , followed by unsolved questions ,
+   hoping the trainer would only look for few problems from the top since he thinks trainer is little lazy . You have to help Ajay achive the
+   idea out of randomly placed questions. (very easy question , self explanatory so not giving any explanation and sample i/p-o/p)
+
+7) find the maximum sum of a increasing subarray of numbers.
+
+      i/p - [2,5,6,1]
+      o/p - 14
+
+              (Think properly and carefully)
+
+
+
+
+
+   
+   
+
+
+  
